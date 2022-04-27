@@ -5,7 +5,7 @@
 
 ✔ Adicionei links de direcionamento e imagens com efeitos.
 
-➜ [Clique aqui para ver o projeto no GitHubPages](#)
+➜ [Clique aqui para ver o projeto no GitHubPages](https://geovanaborba.github.io/Projetos-ETEC_Desenvolvimento-de-Sistemas/HTML-CSS/P%C3%A1gina%20cachorros%20-%20agenda%2011/)
 
 
 
