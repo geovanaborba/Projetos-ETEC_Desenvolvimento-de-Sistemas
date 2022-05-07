@@ -18,4 +18,10 @@ Clique nos links para ir ao repositório ou GitHub Pages de cada projeto diretam
 * Agenda 10 - Projeto JAVA -> [Soma de elementos de Matriz 10x10.](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/JAVA/Soma%20de%20elementos%20de%20Matriz%2010x10)   
 <hr>
 
-* Agenda 11 - Projeto HTML -> [Link repositório](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/HTML-CSS/P%C3%A1gina%20cachorros%20-%20agenda%2011)  //  [Link para o projeto no GitHub Pages](https://geovanaborba.github.io/Projetos-ETEC_Desenvolvimento-de-Sistemas/HTML-CSS/P%C3%A1gina%20cachorros%20-%20agenda%2011/)
+* Agenda 11 - Projeto HTML -> Página com tema "Cachorros" - Utilizei CSS e JS, além do HTML
+
+  [Link repositório](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/HTML-CSS/P%C3%A1gina%20cachorros%20-%20agenda%2011)  //  [Página no GitHub Pages](https://geovanaborba.github.io/Projetos-ETEC_Desenvolvimento-de-Sistemas/HTML-CSS/P%C3%A1gina%20cachorros%20-%20agenda%2011/)
+
+* Agenda 12 - Projeto HTML -> Página apenas com HTML como proposto na agenda, para mostrar meus sites favoritos 
+
+  [Link repositório](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/HTML-CSS/P%C3%A1g.%20com%20sites%20favoritos%20(apenas%20com%20HTML))  //  [Página no GitHub Pages](https://geovanaborba.github.io/Projetos-ETEC_Desenvolvimento-de-Sistemas/HTML-CSS/P%C3%A1g.%20com%20sites%20favoritos%20(apenas%20com%20HTML)/)
