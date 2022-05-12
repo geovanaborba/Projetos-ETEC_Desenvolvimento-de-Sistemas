@@ -22,3 +22,5 @@ No corpo da página, insira:
 
 
 *Observação: Fiz a atividade apenas com html, como proposto na agenda. Adicionei um letreiro digital e coloquei links nas imagens de cada site.*
+
+✔ [Clique aqui para ver o projeto no GitHubPages](https://geovanaborba.github.io/Projetos-ETEC_Desenvolvimento-de-Sistemas/HTML-CSS/P%C3%A1g.%20com%20sites%20favoritos%20(apenas%20com%20HTML)/)
