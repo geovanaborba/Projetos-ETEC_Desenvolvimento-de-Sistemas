@@ -1,0 +1,65 @@
+:root {
+ --cor-fundo:rgb(12, 12, 12);
+ --dourado: #DAA520;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    font-family: 'Parisienne', cursive;
+    font-size: 50px;
+    text-align: center;
+    color: var(--dourado);
+    padding: 5px;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.pre-casamento .dia-da-noiva .cerimonia .festa .lua-de-mel{
+    align-items: center;
+    margin: 1%;
+}
+
+img{
+    width: 95%;
+    margin: 1%;
+}
+
+img:hover {
+    border: 3px solid white;
+    cursor: pointer;
+}
+
+.creditos {
+    margin: 100px;
+    font-size: 30px;
+    border: 1px solid white;
+}
+
+footer{
+    margin-top: 100px;
+    font-family: 'Tangerine', cursive;
+    font-size: 30px;
+}
+
+i {
+    margin-left: 15px;
+    color: white;
+}
+
+
+a {
+    text-decoration: none;
+    color: var(--dourado);
+}
+
+a:hover{
+    color: white;
+}
