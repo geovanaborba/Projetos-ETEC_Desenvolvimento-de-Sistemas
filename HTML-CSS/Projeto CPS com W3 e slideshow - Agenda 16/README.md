@@ -1,6 +1,6 @@
 # Agenda 16 - Projeto CPS com framework W3 e slideshow em JS embutido 
 
-### ✔ [Clique aqui para ver a página no GitHub Pages](https://geovanaborba.github.io/Projetos-ETEC_Desenvolvimento-de-Sistemas/HTML-CSS/Projeto%20CPS%20com%20W3%20e%20slideshow%20-%20Agenda%2016/#docentes)
+### ✔ [Clique aqui para ver a página no GitHub Pages](https://geovanaborba.github.io/Projetos-ETEC_Desenvolvimento-de-Sistemas/HTML-CSS/Projeto%20CPS%20com%20W3%20e%20slideshow%20-%20Agenda%2016/#home)
 
 ## Atividade:
 
