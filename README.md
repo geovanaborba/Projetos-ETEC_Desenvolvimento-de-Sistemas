@@ -1,12 +1,15 @@
 # Projetos realizados ao longo do curso de Desenvolvimento de Sistemas da ETEC.
+*Abaixo estão os caminhos para todas as atividades por módulo. <br> Clique nos links para ir ao repositório ou GitHub Pages de cada projeto diretamente.* 
 
-## Módulo I 
-Clique nos links para ir ao repositório ou GitHub Pages de cada projeto diretamente. 
-<hr>
-
+<details>
+ <summary><h2>Módulo I</h2></summary>
+ 
 ➜ Agenda 1 - Resoluções de problemas lógicos.
+ 
 ➜ Agenda 2 - Operadores lógicos.
+ 
 ➜ Agenda 3 - Debate sobre IDE's.
+ 
 <hr>
 
 ## Projetos em JAVA
@@ -89,5 +92,14 @@ Clique nos links para ir ao repositório ou GitHub Pages de cada projeto diretam
 
 <hr>
 
-## Módulo II 
+</details>
+
+<details>
+ <summary><h2>Módulo II</h2></summary>
+<br>
+Clique nos links para ir ao repositório ou GitHub Pages de cada projeto diretamente. 
+<hr>
+</details>
+
+
 
