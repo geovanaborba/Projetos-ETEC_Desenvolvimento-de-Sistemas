@@ -97,11 +97,12 @@
 <details>
  <summary><h2>Módulo II</h2></summary>
 <br>
-Clique nos links para ir ao repositório ou GitHub Pages de cada projeto diretamente. 
-<hr>
+ 
+## Projetos em PHP 
+ 
 
 ➜ Agenda 1 - Questionário sobre PHP.
-
+ 
 ➜ Agenda 2 - Projeto PHP - Página de cadastro
 
 * [Link repositório](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%202%20-%20P%C3%A1gina%20de%20cadastro)
