@@ -99,6 +99,17 @@
 <br>
 Clique nos links para ir ao repositório ou GitHub Pages de cada projeto diretamente. 
 <hr>
+
+➜ Agenda 1 - Questionário sobre PHP.
+
+➜ Agenda 2 - Projeto PHP - Página de cadastro
+
+* [Link repositório](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%202%20-%20P%C3%A1gina%20de%20cadastro)
+
+➜ Agenda 2 - Projeto PHP - Formulário (atividade do fórum).
+
+* [Link repositório](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%202%20-%20f%C3%B3rum%20-%20Formul%C3%A1rio)
+
 </details>
 
 
