@@ -34,7 +34,9 @@
 
 * [Atividade 1: Padaria](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/JAVA/Padaria%20-%20Promo%C3%A7%C3%A3o%20de%20anivers%C3%A1rio) 
 
-* [Atividade 2: Tabuada](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/JAVA/Tabuada) / [Atividade 3 (fórum): Média de temperaturas.](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/JAVA/M%C3%A9dia%20de%20temperaturas) 
+* [Atividade 2: Tabuada](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/JAVA/Tabuada) 
+
+* [Atividade 3 (fórum): Média de temperaturas.](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/JAVA/M%C3%A9dia%20de%20temperaturas) 
 
 ➜ Agenda 8 - Projeto JAVA 
 
@@ -101,15 +103,18 @@
 ## Projetos em PHP 
  
 
-➜ Agenda 1 - Questionário sobre PHP.
+➜ Agenda 1 - Introdução e questionário sobre PHP.
  
-➜ Agenda 2 - Projeto PHP - Página de cadastro
+➜ Agenda 2 - Projeto PHP
 
-* [Link repositório](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%202%20-%20P%C3%A1gina%20de%20cadastro)
+* [Página de cadastro](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%202%20-%20P%C3%A1gina%20de%20cadastro)
 
-➜ Agenda 2 - Projeto PHP - Formulário (atividade do fórum).
+* [Formulário (atividade do fórum)](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%202%20-%20f%C3%B3rum%20-%20Formul%C3%A1rio)
 
-* [Link repositório](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%202%20-%20f%C3%B3rum%20-%20Formul%C3%A1rio)
+➜ Agenda 3 - Projeto PHP 
+
+* [Formulário com fórmula de desconto no php](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%203%20-%20Formul%C3%A1rio%20com%20f%C3%B3rmula%20de%20desconto)
+
 
 </details>
 
