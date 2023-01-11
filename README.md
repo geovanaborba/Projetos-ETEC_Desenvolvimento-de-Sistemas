@@ -115,6 +115,55 @@
 
 * [Formulário com fórmula de desconto no php](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%203%20-%20Formul%C3%A1rio%20com%20f%C3%B3rmula%20de%20desconto)
 
+➜ Agenda 4 - Projeto PHP 
+
+
+➜ Agenda 5 - Projeto PHP com array
+
+* [Exibição de tabela através de vetor no php]()
+
+➜ Agenda 6 - Projeto PHP com SQL
+
+* [Exibição de tabela utilizando banco de dados SQL]()
+
+➜ Agenda 7 - SIMULADO
+
+➜ Agenda 8 - Apresentação em Power Point para demonstrar o que foi aprendido ao decorrer das agendas.
+
+<br>
+
+## Projetos mobile com [Kodular](https://www.kodular.io/) 
+
+*O Kodular é uma plataforma gratuita que oferece ferramentas e suporte para o usuário com o objetivo de facilitar o processo de criação de um aplicativo totalmente online.*
+
+➜ Agenda 9
+
+* [Aplicativo Calculadora]()
+
+➜ Agenda 10 
+
+* [App com várias telas informativas]()
+
+➜ Agenda 11 
+
+* [App de conversão de medidas]()
+
+➜ Agenda 12 - SIMULADO 
+
+➜ Agendas 13 e 14
+
+* [Jogo da Velha - layout e desenvolvimento do app]()
+
+➜ Agenda 15
+
+* [App para cadastro de produtos com notificações/alerta, caso haja campos em branco]()
+
+➜ Agenda 16
+
+* [Jogo: Descubra o Número]()
+
+
+
 
 </details>
 
