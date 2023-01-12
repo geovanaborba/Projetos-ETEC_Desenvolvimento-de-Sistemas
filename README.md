@@ -115,16 +115,15 @@
 
 * [Formulário com fórmula de desconto no php](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%203%20-%20Formul%C3%A1rio%20com%20f%C3%B3rmula%20de%20desconto)
 
-➜ Agenda 4 - Projeto PHP 
-
+➜ Agenda 4 - SIMULADO
 
 ➜ Agenda 5 - Projeto PHP com array
 
-* [Exibição de tabela através de vetor no php]()
+* [Exibição de tabela através de vetor no php](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%205%20-%20Exibi%C3%A7%C3%A3o%20de%20tabela%20com%20array)
 
 ➜ Agenda 6 - Projeto PHP com SQL
 
-* [Exibição de tabela utilizando banco de dados SQL]()
+* [Exibição de tabela utilizando banco de dados SQL](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%206%20-%20Exibi%C3%A7%C3%A3o%20de%20tabela%20utilizando%20banco%20de%20dados%20SQL)
 
 ➜ Agenda 7 - SIMULADO
 
@@ -138,31 +137,29 @@
 
 ➜ Agenda 9
 
-* [Aplicativo Calculadora]()
+* [Aplicativo Calculadora](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%209%20-%20Aplicativo%20Calculadora)
 
 ➜ Agenda 10 
 
-* [App com várias telas informativas]()
+* [App com várias telas informativas](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%2010%20-%20Telas%20informativas)
 
 ➜ Agenda 11 
 
-* [App de conversão de medidas]()
+* [App de conversão de medidas](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%2011%20-%20App%20de%20convers%C3%A3o%20de%20medidas)
 
 ➜ Agenda 12 - SIMULADO 
 
 ➜ Agendas 13 e 14
 
-* [Jogo da Velha - layout e desenvolvimento do app]()
+* [Jogo da Velha - layout e desenvolvimento do app](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agendas%2013%20e%2014%20-%20Jogo%20da%20Velha)
 
 ➜ Agenda 15
 
-* [App para cadastro de produtos com notificações/alerta, caso haja campos em branco]()
+* [App para cadastro de produtos com notificações/alerta, caso haja campos em branco](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%2015%20-%20App%20para%20cadastro%20de%20produtos%20com%20notifica%C3%A7%C3%B5es)
 
 ➜ Agenda 16
 
-* [Jogo: Descubra o Número]()
-
-
+* [Jogo: Descubra o Número](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%2016%20-%20Jogo:%20Descubra%20o%20N%C3%BAmero)
 
 
 </details>
