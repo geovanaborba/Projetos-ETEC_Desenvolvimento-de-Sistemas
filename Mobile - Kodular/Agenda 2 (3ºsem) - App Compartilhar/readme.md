@@ -7,10 +7,9 @@ Envie para o seu tutor um vídeo mostrando a tela do celular com o projeto reali
 Aproveite para customizar o projeto “Compartilhar” com suas cores e uma imagem escolhida por você.
 
 <hr>
+<br>
 
-### Vídeo do app em funcionamento:
-
-• [App Compartilhar]()
+### [Vídeo do app em funcionamento](https://youtube.com/shorts/2iVmFEqSyxU?feature=share)
 
 <br>
 
