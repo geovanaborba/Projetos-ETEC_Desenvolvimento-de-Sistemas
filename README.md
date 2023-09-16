@@ -165,4 +165,61 @@
 </details>
 
 
+<details>
+ <summary><h2>Módulo III</h2></summary>
 
+ ## Projetos mobile com [Kodular](https://www.kodular.io/) 
+
+*O Kodular é uma plataforma gratuita que oferece ferramentas e suporte para o usuário com o objetivo de facilitar o processo de criação de um aplicativo totalmente online.*
+
+➜ Agenda 1 
+
+* [Jogo Descubra o Número](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%201%20(3%C2%BAsem)%20-%20Jogo%20Descubra%20o%20n%C3%BAmero) *já havia feito o proposto na agenda 16 do módulo II*
+ 
+➜ Agenda 2 
+
+* [App Compartilhar](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%202%20(3%C2%BAsem)%20-%20App%20Compartilhar)
+ 
+➜ Agenda 3 
+
+* [Banco de Dados Local](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%203%20(3%C2%BAsem)%20-%20Banco%20de%20Dados%20local)
+ 
+➜ Agenda 4
+
+* [API CEP](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%204%20(3%C2%BAsem)%20-%20API%20CEP)
+
+➜ Agenda 5 
+
+* [Permissões](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%205%20(3%C2%BAsem)%20-%20Permiss%C3%B5es)
+
+➜ Agenda 6 
+
+* [App Utilitário (bateria)](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%206%20(3%C2%BAsem)%20-%20Utilit%C3%A1rio%20bateria)
+
+➜ Agenda 7 
+
+* [Sensores](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%207%20(3%C2%BAsem)%20-%20Sensores)
+
+➜ Agenda 8 
+
+* [Localização](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/Mobile%20-%20Kodular/Agenda%208%20(3%C2%BAsem)%20-%20Localiza%C3%A7%C3%A3o)
+
+<br>
+
+## Projetos em PHP 
+
+➜ Agenda 9
+
+* [Métodos Getters e Setters](https://github.com/geovanaborba/Projetos-ETEC_Desenvolvimento-de-Sistemas/tree/main/PHP/Agenda%209%20(3%C2%BAsem)%20-%20M%C3%A9todos%20Getters%20e%20Setters)
+
+➜ Agenda 10 - Simulado.
+
+➜ Agendas 11 a 14
+
+* [Projeto Juarez Enlatados - Sistema de Currículos (Model / View / Controller)]()
+
+➜ Agenda 15 - Criptografias em PHP (apresentação em PowerPoint)
+
+➜ Agenda 16 - Web Services (apresentação em PowerPoint)
+
+  </details>
